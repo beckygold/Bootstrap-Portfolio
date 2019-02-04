@@ -48,6 +48,11 @@ body {
     border-bottom: 0;
   }
 
+  #portfolio {
+    position: relative;
+    top: 20px;
+  }
+
   #about-me {
     position: relative;
     top: 20px;
